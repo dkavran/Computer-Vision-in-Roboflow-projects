@@ -1,6 +1,6 @@
 # **Computer Vision in Roboflow - projects**
 
-My own small personal projects, built in Roboflow. Each `demo_` Jupyter
+My small personal projects, built in Roboflow. Each `demo_` Jupyter
 Notebook runs a separate workflow, visualizes the results, and saves them in
 the `/outputs` folder.
 
